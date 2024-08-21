@@ -1,31 +1,25 @@
-
-
+## Hello! How are you doing?
 <!-- markdownlint-disable MD033 MD041 -->
-<p align="center">
-  <h3 align="center"> Assalamualaikum </h3>
+<p>
+  <img src="https://readme-typing-svg.demolab.com/?lines=I+am+Irdina+from+Malaysia&font=New+Amsterdam&pause=1000&color=040C10&width=435&right=true">
 </p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Halo%2C+I+am+Irdina+from+Malaysia&font=New+Amsterdam&pause=1000&color=040C10&width=435&center=true" alt="Example Usage - README Typing SVG">
-</p>
-
-
-<!-- <p align="center">
-  <a href="https://github.com/search?q=extension%3Amd+%22https+readme+typing+svg%22&type=Code" alt="Users" title="Repo users">
-    <img src="https://freshidea.com/jonah/app/github-search-results/readme-typing-svg/index.php"/></a>
-  <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discussion & Support Server">
-    <img src="https://img.shields.io/discord/819650821314052106?color=7289DA&logo=discord&logoColor=white&style=for-the-badge"/></a>
-</p> -->
 <!-- markdownlint-enable MD033 -->
 
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/irdinaahelmy)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/irdina-helimi-0b0327136/)
+[![Instagram](https://img.shields.io/badge/-Instagram-bc2a8d?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/medinaahelmy/)
+[![Gmail](https://img.shields.io/badge/-Gmail-ff4343?style=flat&logo=Gmail&logoColor=white)](mailto:irdinaahelmy@gmail.com)
+[![Twitter](https://img.shields.io/badge/-Twitter-000?style=flat&logo=X&logoColor=white)](https://www.twitter.com/medinaahelmy/)
+[![Youtube](https://img.shields.io/badge/-Youtube-FF0000?style=flat&logo=Youtube&logoColor=white)](https://www.youtube.com/@medinaahelmy)
+[![Spotify](https://img.shields.io/badge/-Spotify-1db954?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/user/eeriepizza)
+[![VSCO](https://img.shields.io/badge/-VSCO-000?style=flat&logo=VSCO&logoColor=white)](https://vsco.co/irdinahelmy/gallery)
 
 
 
 
 
 
-
-
+  
 
 
 
