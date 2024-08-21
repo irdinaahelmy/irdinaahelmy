@@ -1,6 +1,6 @@
 ## 
 <!-- markdownlint-disable MD033 MD041 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&letterSpacing=-1px;&pause=1000&color=000000&background=FF3AED00&vCenter=true&multiline=true&repeat=false&height=44&lines=Welcome+to+irdinaahelmy's+Github)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&letterSpacing=-1px;&pause=1000&color=000000&background=FF3AED00&vCenter=true&multiline=true&repeat=false&width=600&height=44&lines=Willkommen+auf+dem+GitHub+von+irdinaahelmy)](https://git.io/typing-svg)
 <!-- markdownlint-enable MD033 -->
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/irdinaahelmy)
@@ -14,8 +14,10 @@
 
 Here are a little about me:
 - 👻 I am a newbie to GitHub, it's fun exploring it
-- 🌱 I am currently learning the basics of data analysis for general knowledge
-- 🔭 I am currently working as Network Operation Centre
+- 🌱 I am currently pursuing autodidactic learning in data analysis for general knowledge
+- 😄 I am a beginner in German from Malaysia
+
+
 
 
 
