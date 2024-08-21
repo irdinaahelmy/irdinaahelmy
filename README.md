@@ -1,8 +1,6 @@
-## Hello! How are you doing?
+## 
 <!-- markdownlint-disable MD033 MD041 -->
-<p>
-  <img src="https://readme-typing-svg.demolab.com/?lines=I+am+Irdina+from+Malaysia&font=New+Amsterdam&pause=1000&color=040C10&width=435&right=true">
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&letterSpacing=-1px;&pause=1000&color=000000&background=FF3AED00&vCenter=true&multiline=true&repeat=false&height=44&lines=Welcome+to+irdinaahelmy's+Github)](https://git.io/typing-svg)
 <!-- markdownlint-enable MD033 -->
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/irdinaahelmy)
@@ -14,7 +12,10 @@
 [![Spotify](https://img.shields.io/badge/-Spotify-1db954?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/user/eeriepizza)
 [![VSCO](https://img.shields.io/badge/-VSCO-000?style=flat&logo=VSCO&logoColor=white)](https://vsco.co/irdinahelmy/gallery)
 
-
+Here are a little about me:
+- 👻 I am a newbie to GitHub, it's fun exploring it
+- 🌱 I am currently learning the basics of data analysis for general knowledge
+- 🔭 I am currently working as Network Operation Centre
 
 
 
