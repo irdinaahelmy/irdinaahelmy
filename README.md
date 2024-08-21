@@ -13,10 +13,10 @@
 [![VSCO](https://img.shields.io/badge/-VSCO-000?style=flat&logo=VSCO&logoColor=white)](https://vsco.co/irdinahelmy/gallery)
 
 Here are a little about me:
-👻 I’m new to GitHub and having fun exploring it
-🌱 I’m teaching myself data analysis to learn more
-😄 I’m a beginner in German from Malaysia
-🔭 I’m working as a Network Operations Centre
+- 👻 New to GitHub and enjoying the exploration
+- 🌱 Teaching myself data analysis for general knowledge
+- 😄 Beginner in German, from Malaysia
+- 🔭 Working as a Network Operations Centre
 
 
 
